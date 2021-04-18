@@ -86,8 +86,6 @@ ul {
 .contact-item_email {
   display: flex;
   align-items: center;
-  width: 161px;
-  height: 16px;
   margin-right: 30px;
 }
 
@@ -95,10 +93,10 @@ ul {
   display: flex;
   align-items: center;
   width: 142px;
-  height: 16px;
 }
 
 .email-link_img {
+  margin-right: 10px;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
